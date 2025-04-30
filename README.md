@@ -35,4 +35,4 @@ This dashboard helps me:
 ## 📬 Contact
 
 Created by **Alex Davydenko**  
-🌐 [alexinsights.com](https://alexinsights.com) | 📧 alex@alexinsights.com
+🌐 [alexinsights.com](https://alexinsights.com) | 📧 alexseobot@gmail.com
